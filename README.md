@@ -1,4 +1,4 @@
-## 📝 Final Project: Build an AI RAG Assistant Using LangChain  
+# 📝 Final Project: Build an AI RAG Assistant Using LangChain  
 This is the final project from the Coursera course **"Project: Generative AI Applications with RAG and LangChain"** by IBM.
 
 ## 🔍 Project Summary  
